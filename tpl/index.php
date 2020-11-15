@@ -9,7 +9,7 @@
 
   <main>
     <p><a href="./create_user.php">create user</a></p>
-    <p><a href="./game_play.php">game play</a></p>
+    <p><a href="./create_game.php">create game</a></p>
   </main>
 
 </body>
